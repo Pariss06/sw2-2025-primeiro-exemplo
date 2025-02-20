@@ -1,0 +1,5 @@
+GET https://glowing-yodel-r47jqr6rqqq5fp49x-3000.app.github.dev/api/tarefas
+
+###
+
+POST https://glowing-yodel-r47jqr6rqqq5fp49x-3000.app.github.dev/api/tarefas
